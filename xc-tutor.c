@@ -6,7 +6,7 @@
 #include <memory.h>
 #include <string.h>
 #include <stdint.h>
-#define int intptr_t
+#define int intptr_t 
 
 int token;                    // current token
 int token_val;                // value of current token (mainly for number)
